@@ -23,90 +23,90 @@
 ### Wp-multibyte-patch
 ### Google-analytics-dashboard-for-wp
 ### Black-studio-tinymce-widget
-updraftplus
-better-wp-security
-wpclef
-duplicator
-ml-slider
-googleanalytics
-so-widgets-bundle
-shortcodes-ultimate
-redirection
-ninja-forms
-mailchimp-for-wp
-breadcrumb-navxt
-wp-mail-smtp
-wp-optimize
-wp-db-backup
-backwpup
-image-widget
-broken-link-checker
-si-contact-form
-wp-smushit
-tablepress
-contact-form-7-to-database-extension
-the-events-calendar
-google-analyticator
-wp-maintenance-mode
-iwp-client
-all-in-one-wp-security-and-firewall
-post-types-order
-wptouch
-formidable
-user-role-editor
-captcha
-wysija-newsletters
-ewww-image-optimizer
-force-regenerate-thumbnails
-bbpress
-custom-post-type-ui
-add-to-any
-page-links-to
-yet-another-related-posts-plugin
-wp-google-maps
-widget-logic
-yith-woocommerce-wishlist
-si-captcha-for-wordpress
-simple-page-ordering
-contact-form-plugin
-simple-custom-css
-easy-google-fonts
-types
-disqus-comment-system
-wp-statistics
-photo-gallery
-quick-pagepost-redirect-plugin
-easy-fancybox
-maintenance
-seo-ultimate
-cookie-law-info
-sucuri-scanner
-backupwordpress
-redux-framework
-antispam-bee
-wp-clone-by-wp-academy
-seo-image
-instagram-feed
-responsive-lightbox
-ps-auto-sitemap
-display-widgets
-wordpress-popular-posts
-worker
-woosidebars
-newsletter
-wp-postviews
-login-lockdown
-wp-user-avatar
-coming-soon
-bwp-google-xml-sitemaps
-recent-tweets-widget
-addthis
-social-media-widget
-custom-sidebars
-velvet-blues-update-urls
-admin-menu-editor
-buddypress
-simple-social-icons
+### updraftplus
+### better-wp-security
+### wpclef
+### duplicator
+### ml-slider
+### googleanalytics
+### so-widgets-bundle
+### shortcodes-ultimate
+### redirection
+### ninja-forms
+### mailchimp-for-wp
+### breadcrumb-navxt
+### wp-mail-smtp
+### wp-optimize
+### wp-db-backup
+### backwpup
+### image-widget
+### broken-link-checker
+### si-contact-form
+### wp-smushit
+### tablepress
+### contact-form-7-to-database-extension
+### the-events-calendar
+### google-analyticator
+### wp-maintenance-mode
+### iwp-client
+### all-in-one-wp-security-and-firewall
+### post-types-order
+### wptouch
+### formidable
+### user-role-editor
+### captcha
+### wysija-newsletters
+### ewww-image-optimizer
+### force-regenerate-thumbnails
+### bbpress
+### custom-post-type-ui
+### add-to-any
+### page-links-to
+### yet-another-related-posts-plugin
+### wp-google-maps
+### widget-logic
+### yith-woocommerce-wishlist
+### si-captcha-for-wordpress
+### simple-page-ordering
+### contact-form-plugin
+### simple-custom-css
+### easy-google-fonts
+### types
+### disqus-comment-system
+### wp-statistics
+### photo-gallery
+### quick-pagepost-redirect-plugin
+### easy-fancybox
+### maintenance
+### seo-ultimate
+### cookie-law-info
+### sucuri-scanner
+### backupwordpress
+### redux-framework
+### antispam-bee
+### wp-clone-by-wp-academy
+### seo-image
+### instagram-feed
+### responsive-lightbox
+### ps-auto-sitemap
+### display-widgets
+### wordpress-popular-posts
+### worker
+### woosidebars
+### newsletter
+### wp-postviews
+### login-lockdown
+### wp-user-avatar
+### coming-soon
+### bwp-google-xml-sitemaps
+### recent-tweets-widget
+### addthis
+### social-media-widget
+### custom-sidebars
+### velvet-blues-update-urls
+### admin-menu-editor
+### buddypress
+### simple-social-icons
 loco-translate
 pretty-link
 enable-media-replace
@@ -977,24 +977,24 @@ synved-shortcodes
 xml-sitemaps
 nav-menu-images
 email-users
-mobble
-woocommerce-correios
-starbox
-wp-recaptcha-integration
-google-maps-builder
-wp-page-widget
-wp-social-sharing
-ricg-responsive-images
-new-user-approve
-rss-import
-nospamnx
-public-post-preview
-shortcode-widget
-popup-by-supsystic
-webriti-smtp-mail
-magic-action-box
-multiple-content-blocks
-genesis-layout-extras
-animate-it
-simple-wp-sitemap
-aweber-web-form-widget
+### mobble
+### woocommerce-correios
+### starbox
+### wp-recaptcha-integration
+### google-maps-builder
+### wp-page-widget
+### wp-social-sharing
+### ricg-responsive-images
+### new-user-approve
+### rss-import
+### nospamnx
+### public-post-preview
+### shortcode-widget
+### popup-by-supsystic
+### webriti-smtp-mail
+### magic-action-box
+### multiple-content-blocks
+### genesis-layout-extras
+### animate-it
+### simple-wp-sitemap
+### aweber-web-form-widget
