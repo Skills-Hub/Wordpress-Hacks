@@ -688,6 +688,4 @@ A little cheat sheet to help you narrow down what the issue is as follows:
 
 5xx codes:       Statuses showing a server-side error. 
 
-Error and status codes exist to help us to determine what is preventing something else from working. Although they may seem like a frustrating and nondescript brick wall blocking access to a page or the performance of a function, knowing what each error and status code means will help you to understand your website better and point you in the right direction so that you are able to quickly address and resolve any issues that arise. 
 
-Visitors to your website understand that small details are significant in the larger picture – believe us when we say they will appreciate any time you take to customise your 404 pages to ensure they are fun and friendly.  (After all, if they have to see one – it’s a missed opportunity not to make them smile when they do!) If you would like help with your website’s functionality, security, layout or design then contact us – we would love to hear from you!
